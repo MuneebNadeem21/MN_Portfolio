@@ -309,9 +309,9 @@ section {
   background: #f5f8fd;
 }
 
-.section-title {
+/* .section-title {
   padding-bottom: 30px;
-}
+} */
 
 .section-title h2 {
   font-size: 32px;
@@ -473,8 +473,8 @@ section {
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
-  margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  margin-top: 20px;
+  border-bottom: 2px solid #1f5297;
   /* position: relative; */
 }
 
@@ -837,9 +837,9 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-.contact {
+/* .contact {
   padding-bottom: 130px;
-}
+} */
 
 .contact .info {
   padding: 30px;
