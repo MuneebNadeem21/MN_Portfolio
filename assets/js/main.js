@@ -272,7 +272,7 @@
 window.onload = function() {
   Swal.fire({
       title: '🚧 Development Phase',
-      text: "This site is currently in development and will be finalized on January 5, 2025. Thank you for your patience!",
+      text: "This site is currently in development and will be finalized on January 11, 2025. Thank you for your patience!",
       icon: 'info',
       confirmButtonText: 'Got it!',
       background: '#ffffff',
